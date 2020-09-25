@@ -1,16 +1,21 @@
 # Shortest-Path-Visual---A-Star-Algorithm
-Shortest Path Algo A-star implemented in pygame to show the process
+## Shortest Path Algo A-star implemented in pygame to show the process
 
+<br/>
 
--1st click assigns Source
+## 1. First click assigns Source
+![](images/1.PNG)
+<br/>
 
--2nd click assigns Destination
+## 2. Second click assigns Destination
+<br/>
 
-then
+## 3. Press mouse button and space simultaneously and move the mouse to assign Block Path (you can have multiple blocking paths)
+![](images/2.PNG)
+<br/>
 
--press mouse button and space simultaneously and move the mouse to assign Block Path (you can have multiple blocking paths)
+## 4. Press Enter to start the process
+![](images/3.PNG)
+<br/>
 
--then press Enter to start the process
-
-
--Lastly, press any key to exit the window.
+## 5. Lastly, press any key to exit the window.
