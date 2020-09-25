@@ -19,3 +19,5 @@
 <br/>
 
 ## 5. Lastly, press any key to exit the window.
+
+### *Note: yellow blocks are those that are still in queue to be processed, pink ones are already processed blocks, sky blue path is the shortest path*
